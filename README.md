@@ -11,7 +11,7 @@ I've been learning web development for 3 years now, I'm a computer science stude
 * ✉️  You can contact me at [musanziw.m@gmail.com](mailto:musanziw.m@gmail.com)
 * 🚀  I'm currently working on [paturage.com](http://paturage.com)
 * 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on Everything tech project
+* 🤝  I'm open to collaborating on every tech project
 * ⚡  I love christian music
 
 <a href="https://www.github.com/musanziw" target="_blank" rel="noreferrer"><img
